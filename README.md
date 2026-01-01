@@ -3,7 +3,9 @@
 > **Control a digital object using nothing but your Gaze and Hand Gestures.**
 > No mouse. No keyboard. Just Computer Vision.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/) 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mmnc-by-nojan.streamlit.app)
+
+**PLEASE USE PC/LAPTOP FOR BETTER EXPERIENCE**
 
 ## 🔥 The Concept
 This project is a Proof-of-Concept (PoC) for **multimodal human-computer interaction (HCI)**. It leverages Google's MediaPipe framework to run two synchronous neural networks in real-time directly in your browser:
